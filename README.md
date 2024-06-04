@@ -9,7 +9,7 @@ If you want to modify this theme, feel free to fork it and edit the following fi
 ### On Desktop 🖥️
 ![Screenshot](./screenshot.png?raw=true)
 
-### It looks beautifull with Synthwave '2077 vsCode theme. 🧙‍♂️
+### It looks beautiful with Synthwave '2077 vsCode theme. 🧙‍♂️
 ![Screenshot](./screenshot-2.png?raw=true)
 You can download Synthwave '2077 from here:
 https://marketplace.visualstudio.com/items?itemName=CodeSacha.synthwave--2077
